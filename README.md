@@ -1,22 +1,20 @@
-The following are some words created by me (Ibrahim Oladipupo Qamardeen). While the purpose of creating some of these words might not be evident, I need you to trust that they are not redundancies.
-
-
-
 ## Holme System (noun)
 
-- Definition: a system of man-made tools (computers, machines, robots, etc), that provide some usefulness.
-- Example:
-   - The system of servers that power Google can be referred to as a *holme system*.
-   - The system of servers that power Bitcoin can be referred to as a *holme system*.
+a system of machines (computers, robots, CCTVs, drones, etc), that provide some usefulness.
+
+Example:
+
+- The system of servers that power Google can be referred to as a *holme system*.
+- The system of servers that power Bitcoin can be referred to as a *holme system*.
+
+A *holme system* can also be called a *holme*, for short.
 
 
 
-## Holme (noun)
+## Holmine (noun)
 
-- Definition: one of the tools (computer, machine, robot, etc) in a holme system.
+a machine (computer, robot, CCTV, drone, etc) that is part of a holme system.
 
-- Example: 
+Example: 
 
-  - A Google server can be called a home. 
-
-    > Hey Tom, we need to scale up our holmes, millions of people will be visiting our website tomorrow.
+- A server that is part of a banking system, can be called an holmine. 
