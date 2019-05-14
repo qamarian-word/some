@@ -1,6 +1,6 @@
 ## Holme System (noun)
 
-a system of machines (computers, robots, CCTVs, drones, etc), that provide some usefulness.
+a system of machines (computers, robots, CCTVs, drones, etc), which provide some usefulness.
 
 Example:
 
@@ -13,7 +13,7 @@ A *holme system* can also be called a *holme*, for short.
 
 ## Holmine (noun)
 
-a machine (computer, robot, CCTV, drone, etc) that is part of a holme system.
+a machine (computer, robot, CCTV, drone, etc) which is part of a holme system.
 
 Example: 
 
