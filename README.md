@@ -19,7 +19,7 @@ Example:
 
 - A server that is part of a banking system, can be called an holmine. 
 
-##### Why create these words?
+#### Why create these words?
 
-I have always needed a word to describe what I develop, but I've never had a good word for it. So I decided to create one, then later added *Holmine*.
+I have always needed a word to describe what I develop, but I've never had a good word for it. So I decided to create one (*Holme System*), then later added *Holmine*.
 
